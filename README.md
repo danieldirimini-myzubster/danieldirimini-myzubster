@@ -26,6 +26,18 @@ Daniel Ioni
 
 The accounts and organization are documented entry points into the same evolving ecosystem. Repository ownership, visibility and contribution history remain visible on GitHub and should not be inferred from this profile alone.
 
+## Public practice and experience areas
+
+These are documented areas of practice and ongoing learning. They are not presented as professional certification, security assurance, financial advice, medical guidance or institutional endorsement.
+
+- **Internet and self-hosted infrastructure** — practical work with websites, servers, domains, deployments and community-facing digital services.
+- **Onion and privacy-respecting networks** — exploration of privacy-oriented internet infrastructure and responsible service design; not a claim of security-audit expertise.
+- **Decentralization and open protocols** — peer-to-peer ideas, open-source collaboration, verifiable records and distributed coordination.
+- **Monero** — wallet/RPC, settlement and documentation practice in the MyZubster context; not financial or investment advice.
+- **Laser and visual production** — practical interest in light, visuals and event-oriented creative work.
+- **Calisthenics and Thai boxing** — first-hand training practices, documented as personal practice rather than coaching or medical guidance.
+- **Free-party and community events** — event organization, sound-system culture, logistics and community coordination for legal, safe and authorized contexts.
+
 ## Knowledge and evidence
 
 MyZubster is building a knowledge layer where contributions can be identified, classified and reviewed.
