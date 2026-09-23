@@ -1,30 +1,24 @@
 # Daniel Ioni · MyZubster
 
-Open-source builder working on **MyZubster**: an evidence-aware ecosystem connecting people, community projects, AI assistance, verified knowledge and real-world pilots.
-
-> A documented contribution is not automatically verified guidance. MyZubster keeps observations, protocols, external sources and independently reviewed evidence distinct.
+I work on **MyZubster**, an open-source ecosystem connecting people, community projects, AI assistance, documented knowledge and real-world pilots.
 
 ## Start here
 
-- 🌐 [MyZubster website](https://www.myzubster.com/)
-- 🤖 [Talk to Zorgax](https://www.myzubster.com/zorgax)
-- 🧠 [Knowledge Explorer](https://myzubster-knowledge-myzubster.vercel.app/knowledge.html)
-- 💻 [Current MyZubster repository](https://github.com/danieldirimini-myzubster/myzubster)
-- 🏢 [MyZubster-Ecosystem organization](https://github.com/MyZubster-Ecosystem)
+| What are you looking for? | Go here |
+| --- | --- |
+| Use MyZubster | [myzubster.com](https://www.myzubster.com/) |
+| See my current GitHub profile | [danieldirimini-myzubster](https://github.com/danieldirimini-myzubster) |
+| Explore or contribute to the shared code | [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster) · [open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues) |
 
-## Ecosystem map
+You can also [talk to Zorgax](https://www.myzubster.com/zorgax), explore the [Knowledge Explorer](https://myzubster-knowledge-myzubster.vercel.app/knowledge.html), or view [my personal MyZubster repository](https://github.com/danieldirimini-myzubster/myzubster). The **MyZubster-Ecosystem** repository above is the shared public core.
 
-```text
-Daniel Ioni
-├─ Current account: danieldirimini-myzubster
-│  └─ Current MyZubster repository
-├─ Historic account: DanielIoni-creator
-│  └─ Earlier projects, research, maps, assets and prototypes
-└─ MyZubster-Ecosystem organization
-   └─ Shared public core repository and ecosystem resources
-```
+## Which account is current?
 
-The accounts and organization are documented entry points into the same evolving ecosystem. Repository ownership, visibility and contribution history remain visible on GitHub and should not be inferred from this profile alone.
+- **danieldirimini-myzubster** is my current public GitHub profile. Start here to find me.
+- **DanielIoni-creator** is my earlier account, associated with previous projects and contributions. Its profile and repository links may currently return 404 to visitors. GitHub is reviewing the account's visibility; use the current profile and shared repository links above in the meantime.
+- **MyZubster-Ecosystem** is the [organization](https://github.com/MyZubster-Ecosystem) that hosts the shared repository and ecosystem resources.
+
+A documented contribution is not automatically verified guidance. MyZubster keeps observations, protocols, external sources and independently reviewed evidence distinct.
 
 ## Public practice and experience areas
 
@@ -67,19 +61,12 @@ The goal is to preserve the path from a real-world observation to a testable pro
 
 ## Collaborations and pilots
 
-- 🎨 [Nicola / N4K48 pilot](https://github.com/DanielIoni-creator/Nicola)
-- 🧩 [Yassen pilot](https://github.com/DanielIoni-creator/Yassen)
-- 🔬 [University and research](https://github.com/DanielIoni-creator/myzubster-university-research)
-- 🔊 [Sound system work](https://github.com/DanielIoni-creator/Myzubster-soundsystem)
+Nicola / N4K48, Yassen, university and research work, and sound-system projects are documented directions within the wider ecosystem. Earlier repository links under DanielIoni-creator may be unavailable to external visitors while that account's visibility is under review. For accessible project code and current work, start with the [shared repository](https://github.com/MyZubster-Ecosystem/myzubster) and its [open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues).
 
-These links identify documented ecosystem connections. They do not imply employment, partnership, funding, endorsement or a verified outcome unless a source explicitly states it.
+These connections do not imply employment, partnership, funding, endorsement or a verified outcome unless a source explicitly states it.
 
 ## Contribute
 
-Contributions can be code, documentation, design, tests, translations, authorized observations or focused research.
-
-- [Current repository](https://github.com/danieldirimini-myzubster/myzubster)
-- [Core repository](https://github.com/MyZubster-Ecosystem/myzubster)
-- [Open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues)
+Contributions can be code, documentation, design, tests, translations, authorized observations or focused research. Start with the [shared repository](https://github.com/MyZubster-Ecosystem/myzubster) and [open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues).
 
 **Build connections, not just profiles.**
