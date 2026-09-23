@@ -38,6 +38,12 @@ These are documented areas of practice and ongoing learning. They are not presen
 - **Calisthenics and Thai boxing** — first-hand training practices, documented as personal practice rather than coaching or medical guidance.
 - **Free-party and community events** — event organization, sound-system culture, logistics and community coordination for legal, safe and authorized contexts.
 
+## Kefir culture and community sharing
+
+Daniel Ioni and Nicola / N4K48 participate as **community kefir-culture donors**: they can share starter cultures and practical fermentation knowledge through responsible, person-to-person community exchange.
+
+Their collaboration aims to distribute **knowledge and culture together**: learn, try, document, share and improve. This is a cultural and educational practice, not a commercial food-safety certification, therapeutic claim or guarantee of product quality. Recipients remain responsible for informed handling, hygiene and local food rules.
+
 ## Knowledge and evidence
 
 MyZubster is building a knowledge layer where contributions can be identified, classified and reviewed.
