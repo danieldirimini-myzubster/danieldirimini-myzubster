@@ -94,6 +94,16 @@ These connections do not imply employment, partnership, funding, endorsement or 
 
 ## Contribute
 
-Contributions can be code, documentation, design, tests, translations, authorized observations or focused research. Start with the [shared repository](https://github.com/MyZubster-Ecosystem/myzubster) and [open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues).
+Contributions can be code, documentation, design, tests, translations, authorized observations or focused research.
+
+- **Core repository:** [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster)
+- **Open issues:** [choose a task](https://github.com/MyZubster-Ecosystem/myzubster/issues)
+- **Contributor guide:** [CONTRIBUTING.md](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/CONTRIBUTING.md)
+- **Start here:** [JOIN.md](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/JOIN.md)
+- **Build your profile with Zorgax:** [profile onboarding](https://www.myzubster.com/zorgax-profile-onboarding)
+
+```text
+CHOOSE AN ISSUE → COMMENT / PROPOSE → FORK OR BRANCH → PR → REVIEW → MERGE
+```
 
 **Build connections, not just profiles.**
