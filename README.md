@@ -7,6 +7,9 @@ I work on **MyZubster**, an open-source ecosystem connecting people, community p
 | What are you looking for? | Go here |
 | --- | --- |
 | Use MyZubster | [myzubster.com](https://www.myzubster.com/) |
+| Talk to Zorgax | [myzubster.com/zorgax](https://www.myzubster.com/zorgax) |
+| Build / complete your profile | [Zorgax profile onboarding](https://www.myzubster.com/zorgax-profile-onboarding.html) |
+| Explore the Marketplace | [Community Marketplace](https://www.myzubster.com/community-marketplace.html) |
 | See my current GitHub profile | [danieldirimini-myzubster](https://github.com/danieldirimini-myzubster) |
 | Explore or contribute to the shared code | [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster) · [open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues) |
 
