@@ -32,6 +32,14 @@ These are documented areas of practice and ongoing learning. They are not presen
 - **Calisthenics and Thai boxing** — first-hand training practices, documented as personal practice rather than coaching or medical guidance.
 - **Free-party and community events** — event organization, sound-system culture, logistics and community coordination for legal, safe and authorized contexts.
 
+### Personal practice & visual work on TikTok
+
+Selected clips from my **calisthenics**, **Thai boxing**, **free-party / sound-system culture**, and **laser & visual production** are available on TikTok:
+
+**[@h4x0r_23](https://www.tiktok.com/@h4x0r_23)**
+
+The TikTok profile is a personal visual record of these interests and activities; it is separate from technical documentation and evidence maintained in the MyZubster ecosystem.
+
 ## Kefir culture and community sharing
 
 Daniel Ioni and Nicola / N4K48 participate as **community kefir-culture donors**: they can share starter cultures and practical fermentation knowledge through responsible, person-to-person community exchange.
