@@ -12,11 +12,30 @@ I work on **MyZubster**, an open-source ecosystem connecting people, community p
 
 You can also [talk to Zorgax](https://www.myzubster.com/zorgax), explore the [Knowledge Explorer](https://myzubster-knowledge-myzubster.vercel.app/knowledge.html), or view [my personal MyZubster repository](https://github.com/danieldirimini-myzubster/myzubster). The **MyZubster-Ecosystem** repository above is the shared public core.
 
-## Which account is current?
+## How the GitHub identities fit together
 
-- **danieldirimini-myzubster** is my current public GitHub profile. Start here to find me.
-- **DanielIoni-creator** is my earlier account, associated with previous projects and contributions. Its profile and repository links may currently return 404 to visitors. GitHub is reviewing the account's visibility; use the current profile and shared repository links above in the meantime.
-- **MyZubster-Ecosystem** is the [organization](https://github.com/MyZubster-Ecosystem) that hosts the shared repository and ecosystem resources.
+- **danieldirimini-myzubster** is one of my public MyZubster-linked GitHub identities.
+- **DanielIoni-creator** is another project/operator profile with earlier and ongoing MyZubster development history.
+- **MyZubster-Ecosystem** is the organization that hosts the canonical shared repository and ecosystem resources.
+- **@myzubster** is used for onboarding/demo testing of the Zorgax → GitHub profile flow.
+
+These operator-controlled accounts should not be counted as separate independent contributors. The canonical project entry point is [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster).
+
+### From profile to MyZubster
+
+```text
+GitHub profile
+→ MyZubster
+→ Zorgax profile onboarding
+→ approved GitHub bio / README
+→ optional Neon Plaza character
+→ optional Comic Universe node
+```
+
+- [Create or improve a profile with Zorgax](https://www.myzubster.com/zorgax-profile-onboarding)
+- [Enter Neon Plaza / Metaverse](https://www.myzubster.com/metaverse)
+- [Open the Comic Universe](https://www.myzubster.com/fumetto)
+- [See the GitHub community network](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/GITHUB-COMMUNITY-NETWORK.md)
 
 A documented contribution is not automatically verified guidance. MyZubster keeps observations, protocols, external sources and independently reviewed evidence distinct.
 
@@ -69,7 +88,7 @@ The goal is to preserve the path from a real-world observation to a testable pro
 
 ## Collaborations and pilots
 
-Nicola / N4K48, Yassen, university and research work, and sound-system projects are documented directions within the wider ecosystem. Earlier repository links under DanielIoni-creator may be unavailable to external visitors while that account's visibility is under review. For accessible project code and current work, start with the [shared repository](https://github.com/MyZubster-Ecosystem/myzubster) and its [open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues).
+Nicola / N4K48, Yassen, university and research work, and sound-system projects are documented directions within the wider ecosystem. For the current public source of truth, start with the [shared repository](https://github.com/MyZubster-Ecosystem/myzubster), the [GitHub community network](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/GITHUB-COMMUNITY-NETWORK.md), and the [open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues).
 
 These connections do not imply employment, partnership, funding, endorsement or a verified outcome unless a source explicitly states it.
 
