@@ -31,10 +31,10 @@ You can also [talk to Zorgax](https://www.myzubster.com/zorgax), explore the [in
 
 ## How the GitHub identities fit together
 
-- **danieldirimini-myzubster** is one of my public MyZubster-linked GitHub identities.
-- **DanielIoni-creator** is another project/operator profile with earlier and ongoing MyZubster development history.
-- **MyZubster-Ecosystem** is the organization that hosts the canonical shared repository and ecosystem resources.
-- **@myzubster** is used for onboarding/demo testing of the Zorgax → GitHub profile flow.
+- **[danieldirimini-myzubster](https://github.com/danieldirimini-myzubster)** is one of my public MyZubster-linked GitHub identities.
+- **[DanielIoni-creator](https://github.com/DanielIoni-creator)** is another project/operator profile with earlier and ongoing MyZubster development history.
+- **[MyZubster-Ecosystem](https://github.com/MyZubster-Ecosystem)** is the organization that hosts the canonical shared repository and ecosystem resources.
+- **[@myzubster](https://github.com/myzubster)** is used for onboarding/demo testing of the Zorgax → GitHub profile flow.
 
 These operator-controlled accounts should not be counted as separate independent contributors. The canonical project entry point is [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster).
 
@@ -112,6 +112,25 @@ The goal is to preserve the path from a real-world observation to a testable pro
 Nicola / N4K48, Yassen, university and research work, and sound-system projects are documented directions within the wider ecosystem. For the current public source of truth, start with the [shared repository](https://github.com/MyZubster-Ecosystem/myzubster), the [GitHub community network](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/GITHUB-COMMUNITY-NETWORK.md), and the [open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues).
 
 These connections do not imply employment, partnership, funding, endorsement or a verified outcome unless a source explicitly states it.
+
+## Contributor projects and public repositories
+
+These links connect the people, their independently maintained repositories and the public evidence relevant to MyZubster.
+
+| Contributor | Project / repository | MyZubster connection and evidence |
+| --- | --- | --- |
+| [Nicola / N4K48](https://github.com/nicolaususnicola-lgtm) | [Independent MyZubster MVP](https://github.com/nicolaususnicola-lgtm/myzubster-mvp) · [tested pilot checkpoint](https://github.com/nicolaususnicola-lgtm/myzubster-mvp/tree/pilot/n4k48-tested-checkpoint) | Docker pilot, local testing and comic provenance; [published knowledge](https://www.myzubster.com/knowledge.html?view=graph&owner=nicolaususnicola-lgtm). Full authenticated peer exchange is a separate checkpoint. |
+| [khongten124](https://github.com/khongten124) | [Open Period Care research branch](https://github.com/khongten124/myzubster/tree/feat/open-period-care-research-1450) | Research/evidence package; [canonical project linkage](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/contributions/khongten124-canonical-project-link.md) · [merged research PR #1451](https://github.com/MyZubster-Ecosystem/myzubster/pull/1451). Research state is `SUPPORTED`; the documented semantic bridge has a bounded `TESTED` scope. |
+| [Yassen Mainardi](https://github.com/yassenmainardi) | [personaggio-yassen](https://github.com/yassenmainardi/personaggio-yassen) | Public character/profile repository listed in the [community network](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/GITHUB-COMMUNITY-NETWORK.md); repository visibility alone does not establish a tested runtime integration. |
+| [wasim-builds](https://github.com/wasim-builds) | [MyZubster contributor fork](https://github.com/wasim-builds/myzubster) | [Merged admin-auth tests #860](https://github.com/MyZubster-Ecosystem/myzubster/pull/860) · [onboarding correction #1513](https://github.com/MyZubster-Ecosystem/myzubster/pull/1513) · [merged character contribution #637](https://github.com/MyZubster-Ecosystem/myzubster/pull/637) · [graph](https://www.myzubster.com/knowledge.html?view=graph&owner=wasim-builds). |
+| [Aming9303](https://github.com/Aming9303) | [MyZubsterGateway fork](https://github.com/Aming9303/MyZubsterGateway) | [Signed webhooks #891](https://github.com/MyZubster-Ecosystem/myzubster/pull/891) · [replication validator #861](https://github.com/MyZubster-Ecosystem/myzubster/pull/861) · [sensor adapter #859](https://github.com/MyZubster-Ecosystem/myzubster/pull/859) · [graph](https://www.myzubster.com/knowledge.html?view=graph&owner=Aming9303). The independently reproduced webhook test is a bounded checkpoint. |
+| [foxxx009](https://github.com/foxxx009) | [Documentation fork](https://github.com/foxxx009/myzubster-docs) · [Marketplace fork](https://github.com/foxxx009/MyZubster-Marketplace) | [KPI/evidence framework #894](https://github.com/MyZubster-Ecosystem/myzubster/pull/894) · [GitHubMonitor tests #259](https://github.com/MyZubster-Ecosystem/myzubster/pull/259) · [graph](https://www.myzubster.com/knowledge.html?view=graph&owner=foxxx009). Public contribution records are separate from personal Passport publication. |
+| [Shweta-singh24](https://github.com/Shweta-singh24) | [MyZubsterGateway fork](https://github.com/Shweta-singh24/MyZubsterGateway) | [Graph contribution evidence](https://www.myzubster.com/knowledge.html?view=graph&owner=Shweta-singh24) · [interoperability matrix](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/contributors/CONTRIBUTOR-INTEROPERABILITY-MATRIX.md). The reproduced verifier checkpoint is separate from upstream merge or deployment. |
+| [Luzijano](https://github.com/Luzijano) | [MyZubsterGateway fork](https://github.com/Luzijano/MyZubsterGateway) | Public fork recorded in the [interoperability matrix](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/contributors/CONTRIBUTOR-INTEROPERABILITY-MATRIX.md); project-specific opt-in and test evidence remain pending. |
+
+Further contributors and their public work can be found in the [contributor registry](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/CONTRIBUTORS.md), [interactive graph](https://www.myzubster.com/knowledge.html?view=graph) and [service/connection invitation](https://github.com/MyZubster-Ecosystem/myzubster/issues/1519#issuecomment-6032570889). Contributors can supply a canonical project URL for additions.
+
+A repository link records public project provenance; a fork does not by itself establish authorship of the whole upstream project, an active integration or a verified competence.
 
 ## Contribute
 
