@@ -2,18 +2,32 @@
 
 I work on **MyZubster**, an open-source ecosystem connecting people, community projects, AI assistance, documented knowledge and real-world pilots.
 
+## Current public checkpoints · 7 October 2026
+
+| Work | What the evidence supports | Explore the evidence |
+| --- | --- | --- |
+| Interactive Knowledge Graph | Public Knowledge Cards and GitHub contribution records can be explored with account/domain filters and clickable sources. Wasim's #637 merge is reflected in the live graph. | [Open the graph](https://www.myzubster.com/knowledge.html?view=graph) · [graph alignment #1538](https://github.com/MyZubster-Ecosystem/myzubster/pull/1538) |
+| Nicola / N4K48 independent node | A documented local Docker pilot and technical comic-provenance checkpoint; full authenticated node-to-node exchange remains a separate verification step. | [Nicola's published knowledge](https://www.myzubster.com/knowledge.html?view=graph&owner=nicolaususnicola-lgtm) · [public tested checkpoint](https://github.com/nicolaususnicola-lgtm/myzubster-mvp/tree/pilot/n4k48-tested-checkpoint) |
+| Open Period Care | Research Knowledge Cards retain their `SUPPORTED` state; the documented `TESTED` checkpoint concerns a bounded semantic/evidence bridge. | [Contributor interoperability matrix](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/contributors/CONTRIBUTOR-INTEROPERABILITY-MATRIX.md) · [research contribution #1451](https://github.com/MyZubster-Ecosystem/myzubster/pull/1451) |
+| Wasim's accepted contributions | Merged admin-auth test coverage (#860), Zorgax registry correction (#1513), and contributor character manifest/avatar (#637). The manifest remains `proposed`, independently of the PR's merged state. | [Wasim's contribution graph](https://www.myzubster.com/knowledge.html?view=graph&owner=wasim-builds) · [canonical contributor record](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/CONTRIBUTORS.md#wasim-builds) |
+| Contributor connections and Marketplace offers | A public update invites 18 referenced contributors to review their available graphs, propose internal links and prepare concrete service offers. The Seller Skills pilot remains `PREPARATION / TEST ONLY` pending its Marketplace checks. | [Contributor update](https://github.com/MyZubster-Ecosystem/myzubster/issues/1519#issuecomment-6032570889) · [N4K48 bridge coordination](https://github.com/MyZubster-Ecosystem/myzubster/issues/1520) |
+| 12 October meeting preparation | A public evidence index brings together scoped pilot results and unresolved checks for the planned presentation. | [Meeting evidence index](https://github.com/MyZubster-Ecosystem/myzubster/blob/main/docs/life/MEETING-2026-10-12-EVIDENCE-INDEX.md) |
+
+These checkpoints record contributions and bounded tests. Personal Passport publication, competency certification, paid sales, partner status and external settlement each require their own evidence.
+
 ## Start here
 
 | What are you looking for? | Go here |
 | --- | --- |
 | Use MyZubster | [myzubster.com](https://www.myzubster.com/) |
 | Talk to Zorgax | [myzubster.com/zorgax](https://www.myzubster.com/zorgax) |
-| Build / complete your profile | [Zorgax profile onboarding](https://www.myzubster.com/zorgax-profile-onboarding.html) |
-| Explore the Marketplace | [Community Marketplace](https://www.myzubster.com/community-marketplace.html) |
+| Build / complete your profile | [Zorgax profile onboarding](https://www.myzubster.com/zorgax-profile-onboarding) |
+| Explore knowledge and contribution evidence | [Interactive Knowledge Graph](https://www.myzubster.com/knowledge.html?view=graph) |
+| Explore the Marketplace | [Marketplace](https://www.myzubster.com/marketplace) |
 | See my current GitHub profile | [danieldirimini-myzubster](https://github.com/danieldirimini-myzubster) |
 | Explore or contribute to the shared code | [MyZubster-Ecosystem/myzubster](https://github.com/MyZubster-Ecosystem/myzubster) · [open issues](https://github.com/MyZubster-Ecosystem/myzubster/issues) |
 
-You can also [talk to Zorgax](https://www.myzubster.com/zorgax), explore the [Knowledge Explorer](https://myzubster-knowledge-myzubster.vercel.app/knowledge.html), or view [my personal MyZubster repository](https://github.com/danieldirimini-myzubster/myzubster). The **MyZubster-Ecosystem** repository above is the shared public core.
+You can also [talk to Zorgax](https://www.myzubster.com/zorgax), explore the [interactive Knowledge Graph](https://www.myzubster.com/knowledge.html?view=graph), or view [my personal MyZubster repository](https://github.com/danieldirimini-myzubster/myzubster). The **MyZubster-Ecosystem** repository above is the shared public core.
 
 ## How the GitHub identities fit together
 
@@ -70,9 +84,11 @@ Their collaboration aims to distribute **knowledge and culture together**: learn
 
 ## Knowledge and evidence
 
-MyZubster is building a knowledge layer where contributions can be identified, classified and reviewed.
+MyZubster's [public knowledge page](https://www.myzubster.com/knowledge.html) lets visitors explore owner-published Knowledge Cards and a curated snapshot of public GitHub contributions as cards or an interactive graph. Nodes link to their supporting sources; filters select accounts and knowledge areas.
 
-Current evidence states include:
+A public PR record remains distinct from a personal Knowledge Card. [Internal knowledge links](https://www.myzubster.com/knowledge-links) can be proposed and require approval by the relevant owners. Proposed contributor bridges remain visibly pending until consent and scoped tests support a stronger state.
+
+Knowledge/source categories used in the wider project include:
 
 - `PERSONAL_PRACTICE`
 - `OBSERVATION`
@@ -84,7 +100,9 @@ The goal is to preserve the path from a real-world observation to a testable pro
 ## Active directions
 
 - **Zorgax** — AI assistance with human review and explicit evidence boundaries.
-- **Knowledge Explorer** — searchable canonical records by domain and evidence state.
+- **Knowledge Graph** — public Knowledge Cards, contribution evidence, sources and explicit relationship states.
+- **Contributor Passport** — a pathway linking identity, contributions, evidence and optional reward history; publication and completeness are tracked separately for each contributor.
+- **Contributor services** — voluntary Marketplace proposals based on a concrete deliverable and supporting evidence, coordinated through the [Seller Skills pilot](https://github.com/MyZubster-Ecosystem/myzubster/issues/1519).
 - **Development Requests** — turning documented patterns into scoped, testable work.
 - **Circular economies** — protocols for traceability, material evidence and responsible pilot design.
 - **Community pilots** — projects that connect practical experience, documentation and collaboration.
